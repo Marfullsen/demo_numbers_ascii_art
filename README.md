@@ -226,3 +226,21 @@ d8888   d88P  Y88b d88P  Y88b    d8P888  888
 
 - [art library](https://pypi.org/project/art/)
 - [unicode error when writting to file Python3](https://stackoverflow.com/questions/27092833/unicodeencodeerror-charmap-codec-cant-encode-characters)
+- Special thanks to [Rodrigo Nazar](https://github.com/RodrigoNazar) for the idea.
+
+```
+        _
+       / \      _-'
+     _/|  \-''- _ /
+__-' { |          \
+    /             \
+    /       "o.  |o }
+    |            \ ;
+                  ',
+       \_         __\
+         ''-_    \.//
+           / '-____'
+          /
+        _'
+      _-'
+```
