@@ -1,5 +1,16 @@
 # Demo Numbers in ASCII Art.
 
+```
+ d888    .d8888b.   .d8888b.      d8888  888888888 
+d8888   d88P  Y88b d88P  Y88b    d8P888  888       
+  888          888      .d88P   d8P 888  888       
+  888        .d88P     8888"   d8P  888  8888888b. 
+  888    .od888P"       "Y8b. d88   888       "Y88b
+  888   d88P"      888    888 8888888888        888
+  888   888"       Y88b  d88P       888  Y88b  d88P
+8888888 888888888   "Y8888P"        888   "Y8888P" 
+```
+
 Numbers from 0 to 9 using 'art' library for Python3.
 
 ## How to use:
@@ -50,7 +61,7 @@ The output is available in [output.txt](./output.txt) file.
 
 Without installing any dependency, you could try it out printing this snippet:
 
-```
+```python
 print('  .o  \no888  \n 888  \n 888  \n 888  \n 888  \no888o \n')
 print('  .oooo.   \n.dP""Y88b  \n      ]8P\' \n    .d8P\'  \n  .dP\'     \n.oP     .o \n8888888888 \n')
 print('  .oooo.   \n.dP""Y88b  \n      ]8P\' \n    <88b.  \n     `88b. \no.   .88P  \n`8bd88P\'   \n')
